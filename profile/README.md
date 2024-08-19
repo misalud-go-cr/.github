@@ -9,9 +9,6 @@ Con la colaboración de [OPS](https://www.paho.org/es), [HIVOS](https://america-
 Basado en estos casos de uso, se adoptaron los recursos:
 - [Questionnaire](https://hl7.org/fhir/R4B/questionnaire.html)
 - [QuestionnaireResponse](https://hl7.org/fhir/R4B/questionnaireresponse.html)
-- [Observation](https://www.hl7.org/fhir/R4/observation.html)
-- [Immunization](https://www.hl7.org/fhir/R4/immunization.html)
-- [Patient](https://www.hl7.org/fhir/R4/patient.html)
 
 Con estos recursos adoptados se perfilaron y publicaron en el [sitio oficial del Ministerio de Salud de Costa Rica](https://www.ministeriodesalud.go.cr/fhir/) para que cualquier institución que esta o estará invulucrado en los procesos de intercambio de datos puedan consultar y 
 realizar sus implementaciónes basados en estas [guías de implementación HL7 FHIR](https://www.hl7.org/fhir/R4/implementationguide.html)
