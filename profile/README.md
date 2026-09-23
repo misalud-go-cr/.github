@@ -22,7 +22,6 @@ Autores Primarios: <br>
 * [Antón Zamora](https://www.linkedin.com/in/anton-z-ilarionov-46149b24/) - Consultoría OPS Costa Rica
 * [Alejandro Benavides](https://www.linkedin.com/in/abenavidescr/) - Consultoría OPS Costa Rica
 * [David Poveda](https://www.linkedin.com/in/dpoveda/) - Consultoría OPS Costa Rica
-* [Frank Rosich](https://www.linkedin.com/in/frank-rosich-36b4409/) - Consultoría OPS Costa Rica
 
 Autores Secundarios: <br> 
 * [Daniel Quesada](https://www.linkedin.com/in/daniel-quesada-alvarado-b6ba78256/) - [Ministerio de Salud Costa Rica](https://www.ministeriodesalud.go.cr/) 
